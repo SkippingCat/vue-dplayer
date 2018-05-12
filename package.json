@@ -15,10 +15,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sinchang/vue-dplayer.git"
+    "url": "git+ssh://git@github.com/SkippingCat/vue-dplayer.git"
   },
   "bugs": {
-    "url": "https://github.com/sinchang/vue-dplayer/issues"
+    "url": "https://github.com/SkippingCat/vue-dplayer/issues"
   },
   "keywords": [
     "vue",
@@ -35,7 +35,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "dplayer": "^1.20.0",
+    "dplayer": "github:SkippingCat/DPlayer",
     "vue-github-badge": "1.0.1"
   }
 }
